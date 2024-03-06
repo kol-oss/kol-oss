@@ -3,7 +3,7 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C</code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Ilonovay](https://telegram.me/Ilonovay)</code>
